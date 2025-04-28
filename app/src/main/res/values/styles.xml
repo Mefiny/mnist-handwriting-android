@@ -1,0 +1,9 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- AppCompat 的基类主题 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 如果你要去除 ActionBar，可以改成 NoActionBar -->
+        <!-- <item name="windowActionBar">false</item> -->
+        <!-- <item name="windowNoTitle">true</item> -->
+    </style>
+</resources>
